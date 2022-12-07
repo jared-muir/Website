@@ -31,7 +31,7 @@ html, body{
 .carousel-caption h1{
   font-size: 300%;
   text-transform: uppercase;
-  text-shadow: 1px 1px 10px #000;
+  text-shadow: 1px 1px 15px #000;
 }
 
 .carousel-caption h3 {
@@ -210,7 +210,6 @@ Large (lg) devices (desktops, 992px and up)
 Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 */
-
 
 
 
